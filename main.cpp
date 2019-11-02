@@ -25,7 +25,17 @@ namespace ta {
 bool isString;
 
 int main() {
-
+	
+	//MY MAIN
+	/*
+	LinkedList<string> dreamLife;
+	dreamLife.insertTail("Birth");
+	cout <<	dreamLife.toString() << endl;
+	
+	return 0;
+	//*/
+	
+	//REGULAR MAIN
 	std::ifstream ifs; // create the stream to read in from the files
 	std::ofstream ofs; // create the output stream to write to an output file
 	std::string temp; // used to store the current instruction
